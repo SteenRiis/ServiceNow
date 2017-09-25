@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="BNOW Test Application Table" max_length="40" name="x_4848_bnow_test_a_bnow_test_application_table" type="collection"/>
+</database>
